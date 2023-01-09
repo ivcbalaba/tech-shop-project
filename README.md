@@ -3,7 +3,7 @@
 ### Project Output
 Open index.html to view project output.
 
-Project Topics
+### Project Topics
 * More HTML and CSS editing including flexbox
 * Creating a responsive web app
   * size resolutions for mobile > table > small desktop > large desktop
